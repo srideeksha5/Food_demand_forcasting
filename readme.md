@@ -36,12 +36,3 @@ A food delivery company with multiple fulfillment centers needs accurate demand 
 2. Open `food_demand_forecast.ipynb` or `FDF_catboost.ipynb` in Jupyter.  
 3. Run the notebooks to replicate data preprocessing, modeling, and evaluation.
 
-##  Your Contributions (Optional)
-
-- Use time-series models like **Prophet** or **ARIMA** for comparison.  
-- Incorporate external data like weather, holidays, or promotions to enhance forecast accuracy.  
-- Deploy as a web app (Flask/Streamlit) with chart visualizations and date-based forecasting inputs.
-
----
-
-* This README is personalized for my usage—forked, cleaned, and enhanced for clarity and presentation.*
